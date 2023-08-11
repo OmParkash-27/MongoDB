@@ -1,0 +1,22 @@
+{
+  "name": "apipractic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmParkash-27/MongoDB.git"
+  },
+  "author": "ompy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmParkash-27/MongoDB/issues"
+  },
+  "homepage": "https://github.com/OmParkash-27/MongoDB#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
